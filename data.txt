@@ -1,4 +1,4 @@
-TRIP|1|Goa Trip
+TRIP|1|Goa trip
 ACTIVITY|Start|Mumbai|2026-04-01 08:00|0.00|Trip starts here
 NAVCOUNT|0
 ACTIVITY|Flight|Goa|2026-04-01 10:30|5000.00|Morning flight
@@ -13,7 +13,7 @@ ACTIVITY|Tourist|Fort aguada|2026-04-02 09:00|500.00|Sightseeing
 NAVCOUNT|1
 NAV|Walk to fort|2.00
 ENDTRIP
-TRIP|2|Pune Trip
+TRIP|2|Pune trip
 ACTIVITY|Start|Mumbai|2026-05-10 07:00|0.00|Start journey
 NAVCOUNT|0
 ACTIVITY|Bus|Pune|2026-05-10 11:00|1500.00|Bus journey
@@ -27,7 +27,7 @@ ACTIVITY|Tourist|Sinhagad fort|2026-05-11 08:00|300.00|Morning trek
 NAVCOUNT|1
 NAV|Climb fort|1.50
 ENDTRIP
-TRIP|3|Delhi Trip
+TRIP|3|Delhi trip
 ACTIVITY|Start|Mumbai|2026-06-01 06:00|0.00|Trip begins
 NAVCOUNT|0
 ACTIVITY|Flight|Delhi|2026-06-01 09:30|6000.00|Flight to Delhi
@@ -47,7 +47,7 @@ ACTIVITY|Tourist|Red fort|2026-06-02 14:00|300.00|Historic visit
 NAVCOUNT|1
 NAV|Auto ride|4.00
 ENDTRIP
-TRIP|4|Manali Trip
+TRIP|4|Manali trip
 ACTIVITY|Start|Mumbai|2026-07-01 06:00|0.00|Trip begins
 NAVCOUNT|0
 ACTIVITY|Flight|Delhi|2026-07-01 09:30|5500.00|Flight to Delhi
